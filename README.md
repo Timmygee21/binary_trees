@@ -1,6 +1,7 @@
-BINARY TREES: Binary tree is a tree with this preperty that each node inthe tree can have at most 2 children
+* BINARY TREES: 
+Binary tree is a tree with property that each node in the tree can have at most 2 branches
 
-![BINARY TREE](https://github.com/Karlie-crypto/binary_trees/blob/main/binary%20tree%20set.webp)
+[BINARY TREE](https://github.com/Karlie-crypto/binary_trees/blob/main/binary%20tree%20set.webp)
 
 POINTS TO NOTE
 COMPLETE BINARY TREE: Is when all levels except the possibly the last are completely filled and all possible nodes as left as possible
